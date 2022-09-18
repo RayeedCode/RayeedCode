@@ -1,8 +1,5 @@
-- 👋 Hi, I’m @RayeedCode
-- 👀 I’m interested in web designing
-- 🌱 I’m currently learning CSS
-- 💞️ I’m looking to collaborate on Github
-- 📫 How to reach me: https://www.instagram.com/rayeed_rr/
+Hi There!🙋‍♂️
 
-<!---Boom
---->
+I'm Rayeed from Bangladesh.and I do content on Design and Development.I like to design.
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=RayeedCode)](https://github.com/anuraghazra/github-readme-stats)
